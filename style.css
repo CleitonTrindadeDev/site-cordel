@@ -13,7 +13,7 @@
     --fonte3:'Sriracha', cursive;
 }
 html, body {
-    win-height: 100vh;
+    min-height: 100vh;
     background-color: darkgray;
     font-family: var(--fonte1);
 }
